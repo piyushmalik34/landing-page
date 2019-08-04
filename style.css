@@ -56,6 +56,7 @@ box-shadow: -11px 14px 35px -12px rgba(0,0,0,0.75);
  font-size:120px;
 }
 header{
+  z-index:2;
   top:0;
   position:sticky;
   border-radius:30px;
